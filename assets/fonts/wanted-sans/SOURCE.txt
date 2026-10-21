@@ -1,0 +1,5 @@
+Wanted Sans Variable
+https://github.com/wanteddev/wanted-sans
+Source commit: 02c9b822349c188ada95f9e2d90c2ed18f853235
+Original variable WOFF2, unmodified. Weight range: 400–1000.
+License: SIL Open Font License 1.1 (see OFL.txt).
